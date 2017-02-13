@@ -1,6 +1,8 @@
 # CREATING A MOBILE DROP DOWN MENU WITH JQUERY
 Turning a traditional menu in to a mobile friendly one by creating a simple drop down menu with jQuery.
 
+[Link to the live site](https://steph-blondet.github.io/mobile-dropdown-menu-jquery/)
+
 Technologies Used:
 - HTML
 - CSS
