@@ -10,5 +10,9 @@ Technologies Used:
 ![Mobile Drop Down](project_img/mobile-view.png "Mobile View")
 ![Mobile Drop Down](project_img/desktop-view.png "Desktop View")
 
+## Future Features
+- Create content on every page
+- Style every page
+
 ---------
 *This application was built while taking the 'jQuery Basics' lesson at Treehouse. February, 2017.
