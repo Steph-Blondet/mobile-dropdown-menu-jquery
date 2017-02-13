@@ -21,10 +21,12 @@ $("#menu a").each(function(){
 });
 
 //Create button
-var $button = $("<button>Go</button>");
-$("#menu").append($button);
+// var $button = $("<button>Go</button>");
+// $("#menu").append($button);
 //Bind click to go button
-$button.click(function(){
+
+//Bind change listener to the select
+$select.change(function(){
     //Go to seelct's location
     window.location = $select.val();
 
