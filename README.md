@@ -7,7 +7,9 @@ Technologies Used:
 - JavaScript
 - jQuery
 
+## Mobile View
 ![Mobile Drop Down](project_img/mobile-view.png "Mobile View")
+## Desktop View
 ![Mobile Drop Down](project_img/desktop-view.png "Desktop View")
 
 ## Future Features
